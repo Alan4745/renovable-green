@@ -386,7 +386,7 @@ ul.email li i {
 }
 
 #top_section {
-  background-image: url("../images/new_image/banner2.jpg");
+  background-image: url("../images/new_image/imagen5.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 120px;
@@ -577,6 +577,10 @@ ul.email li i {
   /* Estilos para dispositivos móviles */
   .about {
     height: 50%;
+  }
+
+  #img-footer {
+    max-width: 50%;
   }
 
   #logoSegundo {
